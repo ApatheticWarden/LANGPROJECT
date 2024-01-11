@@ -1,0 +1,62 @@
+body {
+  background-color: #3da35d;
+  margin: 0px;
+}
+
+#welc {
+  color: #1d1e18;
+  background-color: #e8fccf;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-bottom: 90px;
+  margin-top: 75px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #134611;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #3e8914;
+}
+
+#mainText {
+  background-color: #e8fccf;
+  padding-top: 10px;
+  font-size: 2em;
+  color: black;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+#pagesList {
+  background-color: #e8fccf;
+  padding-top: 10px;
+  font-size: 2em;
+  color: black;
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: center;
+  margin-top: 45px;
+}
