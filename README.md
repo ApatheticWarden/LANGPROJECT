@@ -26,4 +26,4 @@ that i`ve learned for that lesson. Actually it will be kinda site for studying y
   Nah, idc.. But support is great thing, yk..
   If you interested at theese type of "blogs" you can follow me at my git-hub & tiktok (lol)
 
-                                                                        -- Your fella ApatheticWarden :)
+                                                                          -- Your fella ApatheticWarden :)
